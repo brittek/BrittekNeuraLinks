@@ -3,8 +3,8 @@
 ## Overview
 Welcome to Brittek™. We are a small studio based in Sydney City with expertise across branding, web design, development, and more. Our passion is to bring your vision to the world wide web.
 
-## Navigation Dock
-This project showcases a navigation dock with links to various platforms where Brittek™ has a presence. The dock is designed with a modern, minimalist style that fits seamlessly into any user interface.
+## Navigation Dock "Modules"
+This project showcases a navigation dock with links to various platforms named "Modules" where Brittek™ has a presence. The dock is designed with a modern, minimalist style that fits seamlessly into any user interface.
 
 ## Features
 - **Responsive Design**: The dock adapts to different screen sizes and orientations.
